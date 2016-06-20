@@ -1,0 +1,9 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\bin\Debug\FrameExtactor.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.MainFrom.resources
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\bin\Debug\FrameExtactor.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\bin\Debug\FrameExtactor.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\FrameExtactor\FrameExtactor\obj\Debug\FrameExtactor.pdb
